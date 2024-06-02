@@ -1,5 +1,5 @@
 # Major_Project-G-28
-#Multiple Disease Prediction System using Machine Learning
+# Multiple Disease Prediction System using Machine Learning
 This project presents a comprehensive "Multiple Disease Prediction System using Machine 
 Learning in Python." The primary focus is on predicting three significant diseases: Diabetes, 
 Heart Disease, and Parkinson's, employing advanced machine learning models. The core 
